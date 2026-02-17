@@ -77,7 +77,7 @@ export default function Footer() {
               <a
                 className="hover:text-[#D946EF]"
               >
-                476/42 DHAN NADI VIJAY SINGH PATHIK NAGAR AJMER RAJASTHAN 305001
+                476/42 DHAN NADI VIJAY SINGH PATHIK NAGAR AJMER RAJASTHAN 305001.
               </a>
             </li>
           </ul>
